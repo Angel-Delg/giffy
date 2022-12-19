@@ -1,0 +1,19 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<GiffyGridItem /> This is test GiffyGridItem.jsx 1`] = `
+<div>
+  <section
+    class="card"
+  >
+    <img
+      alt="saitama"
+      src="https://unsplash/saitama.jpg"
+    />
+    <p
+      data-testid="test-title"
+    >
+      saitama
+    </p>
+  </section>
+</div>
+`;
